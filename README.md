@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This repository documents the design and development of an autonomous underwater vehicle (AUV) prototype, which was completed as part of the Ocean Networks Canada AUV Challenge. The challenge aimed to create a robot capable of positioning a debris cleaning/removing device on top of underwater cameras and sensors in a controlled dry lab environment. The project was undertaken by [Your Engineering Consulting Company] and is presented here as a summary of our work and accomplishments.
+This repository documents the design and development of an autonomous underwater vehicle (AUV) prototype, which was completed as part of the Ocean Networks Canada AUV Challenge. The challenge aimed to create a robot capable of positioning a debris cleaning/removing device on top of underwater cameras and sensors in a controlled dry lab environment. The project was undertaken by a group of students from the University of Victoria and is presented here as a summary of our work and accomplishments.
 
 ### Project Achievements
 
